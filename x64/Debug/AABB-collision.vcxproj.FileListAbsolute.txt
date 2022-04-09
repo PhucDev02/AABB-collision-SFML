@@ -1,0 +1,2 @@
+C:\Z_Phúc\GameCpp\AABB-collision-SFML\AABB-collision-SFML\AABB-collision\x64\Debug\AABB-collision.exe
+C:\Z_Phúc\GameCpp\AABB-collision-SFML\x64\Debug\AABB-collision.exe
